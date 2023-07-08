@@ -13,13 +13,6 @@ The vectors are
 (set coefficients are saved in an tuple that grows dynamically;
 all coefficients outside of that are zero).
 
-## Installation
-
-From [PyPI](https://pypi.org/project/hilbert/) with:
-```
-pip install hilbert
-```
-
 ## Usage
 
 Vectors can be initialised to specific coefficients given by an iterable,
